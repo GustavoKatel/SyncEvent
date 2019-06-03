@@ -1,6 +1,6 @@
 # SyncEvent
 
-[![GoDoc](https://godoc.org/github.com/GustavoKatel/SyncEvent?status.svg)](https://godoc.org/github.com/GustavoKatel/SyncEvent)
+[![GoDoc](https://godoc.org/github.com/GustavoKatel/syncevent?status.svg)](https://godoc.org/github.com/GustavoKatel/syncevent)
 
 SyncEvent synchronizes goroutines with a set-reset flag style
 
